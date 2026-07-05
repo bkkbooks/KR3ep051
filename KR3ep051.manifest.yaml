@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep051_000.yaml, hash: 'sha256:22d2bad878cfbe28bbc17086cc396c5e15c9b75b435d4f220302abc571ce1343'}
+  - {seq: 0, filename: KR3ep051_000.yaml, hash: 'sha256:f75511edfe469899810619c645d60fb9c40c90c5da7f636440283c4991924a3a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep051_000.markers.yaml, hash: 'sha256:351e348caa4dd601349175c1eec8da01a98c24e489c66214f30b344b71d93d82'}
+  - {seq: 0, role: markers, filename: assets/KR3ep051_000.markers.yaml, hash: 'sha256:edf19a3a6df75a25ab57ee8d6d647c13606171cf3fceb79fbfd726c1540e0634'}
 table_of_contents:
 - ref:
     seq: 0
@@ -260,7 +260,4 @@ table_of_contents:
   label: 二十一不寐俞案沈案
   type: section
   level: 1
-hash: sha256:d24486aad1eaae2eb49172646822a114e6a8fe0a3d13519eb04bcd2b0f3ff749
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:07ef0861fe687cb58565be095578b692ca934f3536c83f82c9a4ec27bbab92ef
