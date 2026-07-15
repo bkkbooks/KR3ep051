@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep051/v1
 canonical_location: https://kanripo.org/bkk/KR3ep051/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 沈俞醫案合鈔
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep051_000.yaml, hash: 'sha256:f75511edfe469899810619c645d60fb9c40c90c5da7f636440283c4991924a3a'}
+  - {seq: 0, filename: KR3ep051_000.yaml, hash: 'sha256:602ca9d19fadbe8cb21c0385de383d82c7d52a9db7158beaf23fd158177c5adb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep051_000.markers.yaml, hash: 'sha256:edf19a3a6df75a25ab57ee8d6d647c13606171cf3fceb79fbfd726c1540e0634'}
+  - {seq: 0, role: markers, filename: assets/KR3ep051_000.markers.yaml, hash: 'sha256:686257f930d7db2d1e26e8dda019d4274947ab7bb95843b9879be11a12daf0c0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -260,4 +260,7 @@ table_of_contents:
   label: 二十一不寐俞案沈案
   type: section
   level: 1
-hash: sha256:07ef0861fe687cb58565be095578b692ca934f3536c83f82c9a4ec27bbab92ef
+hash: sha256:14aa9c939945060ce563d1b13a759992ba39c41347d0a54dd9601f1889d1be18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
